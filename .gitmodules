@@ -1,0 +1,6 @@
+[submodule "submodules/LitGPT_Front"]
+	path = submodules/LitGPT_Front
+	url = https://github.com/Vrishank-H/LitGPT_Front.git
+[submodule "submodules/litapi"]
+	path = submodules/litapi
+	url = https://github.com/Vrishank-H/litapi.git
