@@ -4,3 +4,9 @@
 [submodule "submodules/litapi"]
 	path = submodules/litapi
 	url = https://github.com/Vrishank-H/litapi.git
+[submodule "litapi"]
+	path = litapi
+	url = https://github.com/Vrishank-H/litapi.git
+[submodule "LitGPT_Front"]
+	path = LitGPT_Front
+	url = https://github.com/Vrishank-H/LitGPT_Front.git
